@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Offline Music Player](https://github.com/vishalag53/Offline-Music-Player)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishalag53](https://github.com/vishalag53)
+- 👨‍💻 All of my projects are available at [vishalag53](https://github.com/vishalag53)
 
 - 📫 How to reach me **vishal.agrawal1207@gmail.com**
 
