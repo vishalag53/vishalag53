@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Agrawal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Offline Music Player](https://github.com/vishalag53/Offline-Music-Player)
+- 🔭 I’m currently working on [RhythmFlow](https://github.com/vishalag53/RhythmFlow)
 
 - 👨‍💻 All of my projects are available at [github/vishalag53](https://github.com/vishalag53)
 
