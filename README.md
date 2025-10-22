@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishal.agrawal1207@gmail.com**
 
-- 📄 Know about my experiences [VISHAL AGRAWAL](https://github.com/vishalag53/Resume/blob/main/VISHAL%20AGRAWAL.pdf)
+- 📄 Know about my experiences [VISHAL AGRAWAL](https://github.com/vishalag53/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
